@@ -32,7 +32,11 @@ if(!empty($_POST['login']) && !empty($_POST['password'])){
                 echo ("Nous sommes le $date $heure");
             ?>
         </div>
+                <h3>Ce que vous trouverez une fois sur le formulaire Enquête au champ :</h3>
+                <h4>Un formulaire vierge de l'enquête.<br>
 
+
+                </h4>
         <form id="myformlogin" name="login_data_base" action="" method="post">
                <h3 class="titrelogin">Veuillez vous identifier pour accéder à l'enquête au champ</h3><br/>
                <div class=identite>
