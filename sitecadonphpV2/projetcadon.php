@@ -22,7 +22,7 @@
             <p class="cartel1"><a href="cartel3.php"><img class="imgcartel" src="images/cartel3.png"/></p>
             <p><h4>Mycotoxines du gène à la toxine</h4></p></a>
         </div>
-          <div class="projetindex"><br>
+          <div class="projetcadon"><br>
                 <h3>Le DON&nbsp;&nbsp;<img class="imgdon" src=images/question.png></h3>
 
                   <h4>Le déoxynivalénol (DON) appartient à l'un des plus grands groupes de toxines, <br>à savoir le type mycotoxines B-trichothécène, qui sont produites,
@@ -30,16 +30,16 @@
                       On trouve ces mycotoxines à la suite d'attaques Fusarium graminearum et culmorum pendant la floraison des céréales.<br><br>De niveaux élevés dans les
                       céréales ont été rapportés au cours des années pluvieuses (tout spécialement pendant la période de floraison des céréales).
                       Les deux espèces Fusarium (F. graminearum et F. culmorum) sont les moisissures les plus importantes produisant le type B.</h4><hr><br><br>
-                    <h3>Devenir du DON après exposition par voie orale :</h3><br><br><br>
+                    <h3>Devenir du DON après exposition par voie orale :</h3><br>
                       <p class="cartel1"><img src=images/men.png></p><p><h4>En Europe, l'exposition au DON est estimée, selon les groupes de population,
-                      entre 0,22 et 1,02 µg / kg de poids corporel / jour en lien essentiellement avec la consommation de pain.</p><br><br><br><br><br><br>
+                      entre 0,22 et 1,02 µg / kg de poids corporel / jour en lien essentiellement avec la consommation de pain.</p><br><br><br>
                       <p class="cartel1"><img src=images/pig.png></p><p><h4>L'absorption du DON chez les animaux monogastriques ou chez l’homme
                       se fait préférentiellement dans le jéjunum. La concentration maximale dans le sérum est atteinte rapidement (environ 4h).</h4></p><hr><br><br>
 
-                        <h3>Comment le DON peut affecter la santé? :</h3><br><br><br>
+                        <h3>Comment le DON peut affecter la santé? :</h3><br>
                         <p class="cartel1"><img src=images/men.png></p><p><h4>Des études épidémiologiques en Chine liées à des épisodes de gastro-entérite suggèrent
                         que le DON peut provoquer des vomissements avec des douleurs abdominales et des diarrhées, des maux de tête, des étourdissements et de la fièvre.
-                        En Inde, une épidémie de gastroentérite a également été attribuée à la consommation de produits à base de blé moisi contenant du DON.</h4></p><br><br><br><br><br><br>
+                        En Inde, une épidémie de gastroentérite a également été attribuée à la consommation de produits à base de blé moisi contenant du DON.</h4></p><br><br><br>
                         <p class="cartel1"><img src=images/pig.png></p><p><h4>L’exposition à de fortes doses de DON affecte les organes dans lesquels la prolifération cellulaire
                         est intense (moelle osseuse, ganglions lymphatiques, rate, thymus et muqueuse intestinale).<br> Elle entraîne des effets similaires à ceux observés lors d’exposition
                         à des rayonnements ionisants : détresse abdominale, salivation importante, malaise, diarrhée, vomissements, leucocytose et hémorragie gastro-intestinale.<br>

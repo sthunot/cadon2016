@@ -18,8 +18,8 @@
               <a href="projetcadon.php" class="myButton" align="right">Le déoxynivalénol (DON)</a><br><br><br><br>
             </div>
             </div>
-        <div class="projetindexdetail">
-          <div class="projetindex"><br>
+        <div>
+          <div class="projetindexdetail">
             <h3>Le projet en détail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=images/services.png></h3><hr><br><br>
                     <p class="fusariose"><a href="cartel4.php"><img src="images/schemastrategiecadon.png" width=500px heigth=500px></a></p>
                     <p><h4>Le projet CaDON se propose de considérer simultanément les deux contaminants, Cd et DON, du champ aux produits de
