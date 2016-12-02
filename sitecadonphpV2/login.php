@@ -38,6 +38,7 @@ if(!empty($_POST['login']) && !empty($_POST['password'])){
                         Ce que vous trouverez une fois connecté :<br><br>
                         > Un formulaire vierge de l'enquête au champ à compléter puis à envoyer.<br>
                         > Le formulaire est prévu pour être rempli en une ou plusieurs fois.<br>
+                        > N'oubliez pas de remplir les champs obligatoires notés avec un astérisque.<br>
                         > Une fois le formulaire envoyé un nouvel onglet apparaitra sous le menu du site, le nom de votre parcelle sera inscrit dans l'onglet,<br> > Vous pourrez consulter, corriger à tout moment le(s) formulaire(s) que vous aurez rempli en cliquant sur l'onglet concerné.</h4><br>
                 </div><br>
 
