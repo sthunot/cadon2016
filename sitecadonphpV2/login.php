@@ -33,13 +33,14 @@ if(!empty($_POST['login']) && !empty($_POST['password'])){
             ?>
         </div>
                 <div class="tuto_login">
-                    <h4>Si vous n'êtes pas inscrit cliquez <a href="mailto:stephane.thunot@inra.fr?subject=inscription cadon&body=Bonjour,%0A Pour votre inscription                  veuillez indiquer votre%0A Nom :%0APrénom :%0AAdresse mail :%0A
+                    <p class="imgimportant"><img src="images/emblem-important-2.png"></p>
+                    <p><h4>Si vous n'êtes pas inscrit cliquez <a href="mailto:stephane.thunot@inra.fr?subject=inscription cadon&body=Bonjour,%0A Pour votre inscription                  veuillez indiquer votre%0A Nom :%0APrénom :%0AAdresse mail :%0A
                     Un mail de retour vous indiquera votre identifiant et votre mot de passe.%0ACordialement" title="inscription"><u>ici</u></a><br><br>
                         Ce que vous trouverez une fois connecté :<br><br>
                         > Un formulaire vierge de l'enquête au champ à compléter puis à envoyer.<br>
                         > Le formulaire est prévu pour être rempli en une ou plusieurs fois.<br>
                         > N'oubliez pas de remplir les champs obligatoires notés avec un astérisque.<br>
-                        > Une fois le formulaire envoyé, à la connexion suivante un nouvel onglet apparaitra sous le menu du site,<br> le nom de votre parcelle sera inscrit dans cet onglet,<br> > Vous pourrez consulter, corriger à tout moment le(s) formulaire(s) que vous aurez rempli en cliquant sur l'onglet concerné.</h4><br>
+                        > Une fois le formulaire envoyé, à la connexion suivante un nouvel onglet apparaitra sous le menu du site,<br> le nom de votre parcelle sera inscrit dans cet onglet,<br> > Vous pourrez consulter, corriger à tout moment le(s) formulaire(s) que vous aurez rempli <br>en cliquant sur l'onglet concerné.</h4></p><br>
                 </div><br>
 
 
