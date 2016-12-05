@@ -21,18 +21,19 @@
         <div>
           <div class="projetindexdetail">
             <h3>Le projet en détail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=images/services.png></h3><hr><br><br>
-                    <p class="fusariose"><a href="cartel4.php"><img src="images/schemastrategiecadon.png" width=500px heigth=500px></a></p>
-                    <p><h4>Le projet CaDON se propose de considérer simultanément les deux contaminants, Cd et DON, du champ aux produits de
-                    moutures et d’analyser leur toxicité combinée avec un double objectif : <br><br>  S’assurer que les stratégies agronomiques et les
-                    process de mouture  préconisés pour limiter les teneurs en un des contaminants ne favorisent pas la contamination par le deuxième,<br><br>
-                    S’assurer que la co-contamination des produits céréaliers par Cd et DON ne conduit pas à un effet cocktail avec de potentielles
-                    synergies entre les effets toxiques liés à chaque contaminant. <br><br><br><br>Pour atteindre cet objectif trois axes de recherches complémentaires ont
-                    été définies, guidées par les lignes directrices suivantes :<br><br> Caractériser les évènements de co-contamination et en analyser l’origine,
-                    du champ aux produits de mouture, <br><br>Décrypter les mécanismes physiologiques et biologiques à l’origine de la co-contamination des grains
-                    et produits de mouture,<br><br>Evaluer la toxicité combinée du DON et Cd.<br><br><br>
-                    La connaissance délivrée par le projet CaDON permettra une première évaluation du risque lié à la co-contamination des blés durs par
-                    le mélange Cd+DON et fournira les bases pour comprendre l’origine de ce risque, du champ au consommateur.<br>Chaque résultat du projet
-                    CaDON sera un élément essentiel pour identifier les actions préventives pour limiter ce risque potentiel.</h4></p><br><br><br><br><br><br>
+                    <p><h4>Le projet CaDON se propose de considérer simultanément les deux contaminants, Cd et DON, du champ aux produits de moutures et d’analyser leur toxicité combinée avec un double objectif : <br><br>
+&nbsp;&nbsp;&nbsp;> S’assurer que les stratégies agronomiques et les process de mouture préconisés pour limiter les teneurs en un des contaminants ne favorisent pas la contamination par le deuxième.<br><br>
+&nbsp;&nbsp;&nbsp;> S’assurer que la co-contamination des produits céréaliers par Cd et DON ne conduit pas à un effet cocktail avec de potentielles synergies entre les effets toxiques liés à chaque contaminant.</h4></p>
+
+<p class="fusariose"><a href="cartel4.php"><img src="images/schemastrategiecadon.png" width=500px heigth=500px></a></p>
+
+<p><h4>Pour atteindre cet objectif trois axes de recherches complémentaires ont été définies, guidées par les lignes directrices suivantes :<br><br>
+&nbsp;&nbsp;&nbsp;> Caractériser les évènements de co-contamination et en analyser l’origine, du champ aux produits de mouture,<br><br>
+&nbsp;&nbsp;&nbsp;> Décrypter les mécanismes physiologiques et biologiques à l’origine de la co-contamination des grains et produits de mouture,<br><br>
+&nbsp;&nbsp;&nbsp;> Evaluer la toxicité combinée du DON et Cd.<br><br>
+
+
+La connaissance délivrée par le projet CaDON permettra une première évaluation du risque lié à la co-contamination des blés durs par le mélange Cd+DON et fournira les bases pour comprendre l’origine de ce risque, du champ au consommateur. Chaque résultat du projet CaDON sera un élément essentiel pour identifier les actions préventives pour limiter ce risque potentiel.</h4></p><br><br><br><br><br><br>
           </div><br><br>
                 <div class="pdp">
                 <?php include("footer.php");?>

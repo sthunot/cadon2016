@@ -25,11 +25,9 @@
           <div class="projetcadon"><br>
                 <h3>Le DON&nbsp;&nbsp;<img class="imgdon" src=images/question.png></h3>
 
-                  <h4>Le déoxynivalénol (DON) appartient à l'un des plus grands groupes de toxines, <br>à savoir le type mycotoxines B-trichothécène, qui sont produites,
-                      en particulier par des moisissures appartenant au genre Fusarium.<br><br>le DON est largement réparti dans les céréales en tant que contaminant naturel.
-                      On trouve ces mycotoxines à la suite d'attaques Fusarium graminearum et culmorum pendant la floraison des céréales.<br><br>De niveaux élevés dans les
-                      céréales ont été rapportés au cours des années pluvieuses (tout spécialement pendant la période de floraison des céréales).
-                      Les deux espèces Fusarium (F. graminearum et F. culmorum) sont les moisissures les plus importantes produisant le type B.</h4><hr><br><br>
+                  <h4>Le déoxynivalénol (DON) appartient à l'un des plus grands groupes de mycotoxines, à savoir les         Trichothécènes de type B. Ces mycotoxines sont produites par des moisissures appartenant au genre         Fusarium.<br> Les espèces de Fusarium, responsables de la contamination des récoltes céréalières, sont   essentiellement Fusarium graminearum et Fusarium culmorum.<br>
+                    Ces deux espèces fongiques infectent les épis des céréales au moment de la floraison et produisent leurs mycotoxines au cours des étapes de remplissage des grains.<br> Toutes les récoltes céréalières et le maïs sont concernés, le blé dur étant cependant une des espèces végétales les plus sensibles. Les conditions climatiques et en particulier les épisodes pluvieux autour de la floraison sont déterminants dans les niveaux d’infection fongique et de contamination en DON.<br> Plusieurs leviers agronomiques peuvent limiter les symptômes fongiques ainsi que les quantités de toxines accumulées dans les grains à la récolte.
+                    Le DON est une molécule très stable, qui n’est que très partiellement détruite par les process agroalimentaires et se retrouve dans les produits finis. Il est ainsi indispensable d’agir en amont des récoltes pour limiter l’exposition des consommateurs à cette toxine.</h4><hr><br><br>
                     <h3>Devenir du DON après exposition par voie orale :</h3><br>
                       <p class="cartel1"><img src=images/men.png></p><p><h4>En Europe, l'exposition au DON est estimée, selon les groupes de population,
                       entre 0,22 et 1,02 µg / kg de poids corporel / jour en lien essentiellement avec la consommation de pain.</p><br><br><br>
@@ -37,9 +35,7 @@
                       se fait préférentiellement dans le jéjunum. La concentration maximale dans le sérum est atteinte rapidement (environ 4h).</h4></p><hr><br><br>
 
                         <h3>Comment le DON peut affecter la santé? :</h3><br>
-                        <p class="cartel1"><img src=images/men.png></p><p><h4>Des études épidémiologiques en Chine liées à des épisodes de gastro-entérite suggèrent
-                        que le DON peut provoquer des vomissements avec des douleurs abdominales et des diarrhées, des maux de tête, des étourdissements et de la fièvre.
-                        En Inde, une épidémie de gastroentérite a également été attribuée à la consommation de produits à base de blé moisi contenant du DON.</h4></p><br><br><br>
+                        <p class="cartel1"><img src=images/men.png></p><p><h4>Il est très difficile d’évaluer précisément l’impact du DON sur la santé humaine. Les trichothécènes (famille de mycotoxines à laquelle appartient le DON) ont été incriminés dans des graves mycotoxicoses associées à la consommation de blés moisis en Russie pendant la seconde guerre mondiale.<br> Ces mycotoxicoses ont été désignées sous le terme d’Aleucie Toxique Alimentaire.<br> Les mesures publiques de contrôle sanitaire instaurées dans de nombreux pays ont permis de limiter la survenue de ces mycotoxicoses aiguës. Le DON serait, quant à lui, impliqué dans des épisodes de gastro-entérite survenues plus récemment en Chine et Inde, provoquant des douleurs abdominales et des diarrhées, des maux de tête, des étourdissements et de la fièvre.</h4></p><br><br><br>
                         <p class="cartel1"><img src=images/pig.png></p><p><h4>L’exposition à de fortes doses de DON affecte les organes dans lesquels la prolifération cellulaire
                         est intense (moelle osseuse, ganglions lymphatiques, rate, thymus et muqueuse intestinale).<br> Elle entraîne des effets similaires à ceux observés lors d’exposition
                         à des rayonnements ionisants : détresse abdominale, salivation importante, malaise, diarrhée, vomissements, leucocytose et hémorragie gastro-intestinale.<br>
