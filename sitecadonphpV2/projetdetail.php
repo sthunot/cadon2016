@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;> S’assurer que les stratégies agronomiques et les process de mouture préconisés pour limiter les teneurs en un des contaminants ne favorisent pas la contamination par le deuxième.<br><br>
 &nbsp;&nbsp;&nbsp;> S’assurer que la co-contamination des produits céréaliers par Cd et DON ne conduit pas à un effet cocktail avec de potentielles synergies entre les effets toxiques liés à chaque contaminant.</h4></p>
 
-<p class="fusariose"><a href="cartel4.php"><img src="images/schemastrategiecadon.png" width=500px heigth=500px></a></p>
+<p class="fusariose"><a href="cartel4.php"><img src="images/schemastrategiquecadon.gif" width=500px heigth=500px></a></p>
 
 <p><h4>Pour atteindre cet objectif trois axes de recherches complémentaires ont été définies, guidées par les lignes directrices suivantes :<br><br>
 &nbsp;&nbsp;&nbsp;> Caractériser les évènements de co-contamination et en analyser l’origine, du champ aux produits de mouture,<br><br>

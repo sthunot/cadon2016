@@ -13,7 +13,7 @@
         <a href="projetdetail.php"><i><u><h6><<< RETOUR </h6></u></i></a>
            <div class="cartel"><br>
                 <a href="projetdetail.php"><h3>Le Cadmium et Deoxynivalenol dans les récoltes de blé dur</h3><br><br><br>
-                <img class="imgcartel4" src="images/schemastrategiecadon.png" width="900px" height="400px"/></a>
+                <img class="imgcartel4" src="images/schemastrategiquecadon.gif" width="900px" height="400px"/></a>
             </div>
 
             <div><a id="cRetour" class="cInvisible" href="#haut"></a></div>
