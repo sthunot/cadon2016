@@ -1,3 +1,3 @@
 <?php
-echo sha1('Cadon258!');
+echo sha1('');
 ?>
